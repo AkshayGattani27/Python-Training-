@@ -1,1 +1,9 @@
-Python learning day 1 for basics.
+#Python learning day 1 for basics.
+
+F -STRING Concept 
+An f-string is a way to embed expressions inside string literals, using curly braces {}. It makes string formatting more readable and concise.
+Example -
+name = "Alice"
+age = 25
+print(f"My name is {name} and I am {age} years old.")
+
