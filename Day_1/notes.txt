@@ -37,7 +37,7 @@ print(f"Score: {score:04d}")    # Output: 0095
 
 -----------------------------------------------------------------------------
 
-4. Function Calls Inside Strings
+5. Function Calls Inside Strings
 
 def greet(name):
     return f"Hello, {name}!"

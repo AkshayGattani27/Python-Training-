@@ -1,0 +1,7 @@
+To get just after two places of decimal we can use -
+
+num = 3.14159265
+formatted_num = f"{num:.2f}"
+print(formatted_num) # Output: 3.14
+print(type(formatted_num)) # Output: <class 'str'> (Note: It's a string!)
+
